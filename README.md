@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github perfil be welcome.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my github profile
 
 <p>
     <a href="https://github.com/majidadigozal/majidadigozal"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
