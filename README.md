@@ -9,9 +9,7 @@
 
 <p>
     <a href="https://github.com/majidadigozal"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/majidadigozal/graphs/contributors"><img src="https://img.shields.io/github/contributors/majidadigozal?color=blue"></a>
-    <a href="https://github.com/majidadigozal/stargazers"><img src="https://img.shields.io/github/stars/majidadigozal?logo=github"></a>
-    <a href="https://github.com/majidadigozal/network/members"><img src="https://img.shields.io/github/forks/majidadigozal.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/majidadigozal/majidadigozal/graphs/contributors"><img src="https://img.shields.io/github/contributors/majidadigozal/majidadigozal/?color=blue"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=majidadigozal" alt="visitors"/>   
 </p>
 
