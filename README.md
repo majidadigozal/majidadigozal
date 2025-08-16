@@ -71,6 +71,7 @@ _I am open to new opportunities/contributions._
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-4.1.3-010101??style=flat-square&logo=Socket.io&logoColor=white)
 ![Websocket](https://img.shields.io/badge/Websocket-yellow??style=flat-square&logo=Socket.io&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-teal??style=flat-square&logo=logoColor=white)
 
 ### 🥉 Studying stack
 
