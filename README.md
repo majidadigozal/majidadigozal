@@ -15,7 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="majidadigozal" min-width="400px" max-width="400px" width="400px" align="right">
 
-I'm a software engineer with a deep love for building scalable and efficient systems—especially with Node.js. From backend architecture to real-time data processing, I enjoy solving complex problems and turning ideas into high-performing applications.
+A Senior Software Engineer with over 10 years of expertise in architecting and building scalable, high-performance full-stack applications. Passionate about solving complex backend challenges, from distributed systems and real-time data processing to robust API design. Proficient in modern JavaScript/TypeScript ecosystems, with a strong specialization in Nest.js for backend architecture and Vue.js for dynamic front-end interfaces.
 
 on my Github, you can find:
 
