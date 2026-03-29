@@ -1,4 +1,4 @@
-<br>
+<br> 
 <br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+my+name+is+MajidAdigozal+;I'm+a+programmer+and+a+Software+Engineer;Welcome+to+my+github+profile!+:%29)
